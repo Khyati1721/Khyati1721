@@ -94,6 +94,6 @@ I focus on building simple, reliable solutions that can be tested, improved, and
 
 <h2 align="left">📫 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khyati-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khyati021)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khyati021)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](khyatichandrakar21@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:khyatichandrakar21@gmail.com)
