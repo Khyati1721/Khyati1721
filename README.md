@@ -1,15 +1,13 @@
 <h1 align="center">👋 Hi, I'm Khyati</h1>
 
-<h3 align="center">Aspiring Data Scientist | AI & Machine Learning Enthusiast | Cloud Explorer</h3>
+<h3 align="center">Data Scientist | Machine Learning & AI Developer</h3>
 
 ---
 
 <h2 align="left">💡 About Me</h2>
 
 I work on data science and AI projects where I analyze data, build machine learning models, and evaluate their performance on real tasks.
-
 I have experience working with structured datasets, applying machine learning techniques, and exploring deep learning for prediction-based problems.
-
 I focus on building simple, reliable solutions that can be tested, improved, and used in real applications.
 
 ---
@@ -76,6 +74,6 @@ I focus on building simple, reliable solutions that can be tested, improved, and
 
 <h2 align="left">📫 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khyati-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khyati-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khyati021)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](khyatichandrakar21@gmail.com)
